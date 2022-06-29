@@ -1,4 +1,4 @@
-This Repository is tensorflow project that are being graded by Dicoding.
+This repository is a combined 15 projects that consist of NLP,Image Recognition, and Time Series Forecasting
 
 In This repository you can find :
 - 3 Hello world using tensorflow
